@@ -20,7 +20,7 @@ a {
   /** CONTENIDO PRINCIPAL  */
 
 .main-img-background {
-background-image: url('/assets/img/leone-venter-VieM9BdZKFo-unsplash.jpg');
+background-image: url('assets/img/leone-venter-VieM9BdZKFo-unsplash.jpg');
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
